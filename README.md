@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Dylan Nguyen
+- 👀 Interests: Videogames, Sports (Volleyball, Basketball, Football, UFC, Golf, etc.), Skateboarding, Snowboarding, 
+- 🌱 Languages: Python, C++, C#, Linux, and Javascript
+- 📫 How to Reach Me:
+      - Email: dkn.nguyen12@gmail.com
+      - Phone: (408) 533 - 3426
+- 😄 Pronouns: He/Him
